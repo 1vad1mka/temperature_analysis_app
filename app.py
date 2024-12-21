@@ -3,9 +3,7 @@ import pandas as pd
 import numpy as np
 from datetime import datetime, date
 import time
-from multiprocessing import Pool
 from sklearn.linear_model import LinearRegression
-from statsmodels.tsa.seasonal import STL
 from prophet import Prophet
 import matplotlib.pyplot as plt
 import seaborn as sns
