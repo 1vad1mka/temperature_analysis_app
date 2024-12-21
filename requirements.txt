@@ -1,0 +1,12 @@
+pandas
+numpy 
+datetime 
+time
+multiprocessing 
+scikit-learn
+prophet
+matplotlib
+seabor
+plotly
+requests
+streamlit
